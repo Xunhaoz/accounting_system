@@ -1,0 +1,13 @@
+{
+  "accounting": [
+    "Inventory",
+    "Accounts Receivable",
+    "Accounts Payable",
+    "Cost of Goods Sold",
+    "Inventory(adj.)",
+    "Sales Revenue",
+    "Notes Receivable",
+    "Notes Payable",
+    "Cash"
+  ]
+}
